@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1792581850 source:c:\dsa_btvn\week1\week1_list.cpp
+	"C:/DSA_BTVN/List.h"
+
+1792582172 c:\dsa_btvn\list.h
+
+1792630399 source:c:\dsa_btvn\stack_queue\dsa_queue\main.cpp
+	<iostream>
+	"C:\DSA_BTVN\stack_queue\DSA_QUEUE\QueueList.h"
+
+1792629916 c:\dsa_btvn\stack_queue\dsa_queue\queuelist.h
+	"List.h"
+
+1792629853 c:\dsa_btvn\stack_queue\dsa_queue\list.h
+
+1792630420 source:c:\dsa_btvn\stack_queue\dsa_queue\queuelist.cpp
+	"C:\DSA_BTVN\stack_queue\DSA_QUEUE\QueueList.h"
+	<stdexcept>
+
+1792596469 source:c:\dsa_btvn\week1_list.cpp
+	<iostream>
+	<stdexcept>
+	"List.h"
+
+1792631436 source:c:\dsa_btvn\stack_queue\dsa_queue\queuelinkedlist.cpp
+	"C:\DSA_BTVN\stack_queue\DSA_QUEUE\QueueLinkedList.h"
+	<stdexcept>
+
+1792631365 c:\dsa_btvn\stack_queue\dsa_queue\queuelinkedlist.h
+

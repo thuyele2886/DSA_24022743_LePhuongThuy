@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1792581899 source:c:\dsa_btvn\stacklist.cpp
+	"C:/DSA_BTVN/StackList.h"
+	<stdexcept>
+
+1792581775 c:\dsa_btvn\stacklist.h
+	"List.h"
+
+1792582172 c:\dsa_btvn\list.h
+
+1792581850 source:c:\dsa_btvn\week1\week1_list.cpp
+	"C:/DSA_BTVN/List.h"
+
+1792581840 source:c:\dsa_btvn\stack_queue\dsa_stack_queue\main.cpp
+	<iostream>
+	"C:/DSA_BTVN/StackList.h"
+
+1792582328 source:c:\dsa_btvn\stack_queue\week1\week1_list.cpp
+	<iostream>
+	<stdexcept>
+	"C:/DSA_BTVN/List.h"
+
