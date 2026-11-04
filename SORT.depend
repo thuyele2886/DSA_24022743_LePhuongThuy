@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1793723336 source:c:\dsa_btvn\sort\main.cpp
+	<iostream>
+	"sort.h"
+
+1793723404 c:\dsa_btvn\sort\sort.h
+
+1793723735 source:c:\dsa_btvn\sort\bubblesort.cpp
+	"sort.h"
+
+1793723737 source:c:\dsa_btvn\sort\insertionsort.cpp
+	"Sort.h"
+
+1793723750 source:c:\dsa_btvn\sort\mergesort.cpp
+	"Sort.h"
+
+1793723772 source:c:\dsa_btvn\sort\quicksort.cpp
+	"sort.h"
+
+1793723778 source:c:\dsa_btvn\sort\selectionsort.cpp
+	"sort.h"
+
